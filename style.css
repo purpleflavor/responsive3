@@ -88,18 +88,17 @@ p {
 }
 @media (max-width: 576px) {
   h1 {
-    font-size: 48px;
+    font-size: 32px;
   }
   h2 {
-    font-size: 32px;
+    font-size: 24px;
     text-align: center;
   }
   p {
     text-align: center;
   }
-
-  .container {
-    text-align: center;
+  .photo {
+    display: none;
   }
   .project {
     display: block;
